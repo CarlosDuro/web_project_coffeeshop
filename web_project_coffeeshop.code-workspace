@@ -1,0 +1,14 @@
+{
+  "folders": [
+	{
+		"path": "../Documents/TT"
+	},
+	{
+		"path": "../first-project/web_project_library_es"
+	}
+],
+  "settings": {
+    "liveServer.settings.multiRootWorkspaceName": "TT",
+    "git.ignoreLimitWarning": true
+  }
+}
